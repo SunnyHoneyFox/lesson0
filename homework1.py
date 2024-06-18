@@ -1,7 +1,7 @@
-name = 'Lavender'
-print(name[0])
-print(name[-1])
-print(name[3:8])
-print(name[::-1])
-print(name[1:8:2])
+example = 'Lavender'
+print(example[0])
+print(example[-1])
+print(example[3:8])
+print(example[::-1])
+print(example[1:8:2])
 
