@@ -14,9 +14,13 @@ def divide(a, b):
     return a / b
 
 
+def square(a):
+    return a ** 2
+
 
 if __name__ == '__main__':
     print(plus(5, 2))
     print(minus(5, 2))
     print(multiply(5, 2))
     print(divide(5, 2))
+    print(square(5))
